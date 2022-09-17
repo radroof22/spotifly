@@ -1,0 +1,6 @@
+# Mac OS (specific)
+.DS_Store
+
+# Block out datasets
+*.zip
+*.csv
